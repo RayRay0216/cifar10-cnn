@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments (改成你實際的 venv 名稱也可)
+venv/
+myenv/
+.env/
+.venv/
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# Data & Weights
+data/
+*.pt
+checkpoints/
+runs/
